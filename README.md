@@ -14,13 +14,12 @@ This repository provides **official installer packages** for the Basis Accountin
 
 ## Downloads
 
-Latest release is available below. For all versions, visit the [Releases](../../releases) section.
+Download the latest release from the [Releases](../../releases/latest) page.
 
-### Latest Version
-
-| Version | Desktop (Windows) | Server (Windows) | Server (Linux) |
-|---------|-------------------|------------------|----------------|
-| v2026.05.14 | [BasisSetup-v2026.05.14.exe](../../releases/download/v2026.05.14/BasisSetup-v2026.05.14.exe) | [BasisServer-v2026.05.14-win-x64.zip](../../releases/download/v2026.05.14/BasisServer-v2026.05.14-win-x64.zip) | [BasisServer-v2026.05.14-linux-x64.zip](../../releases/download/v2026.05.14/BasisServer-v2026.05.14-linux-x64.zip) |
+Available packages:
+- `BasisSetup-v{version}.exe` - Desktop Edition (Windows)
+- `BasisServer-v{version}-win-x64.zip` - Server Edition (Windows)
+- `BasisServer-v{version}-linux-x64.zip` - Server Edition (Linux)
 
 Verify file integrity using the `.sha256` checksum included with each release.
 
@@ -28,20 +27,20 @@ Verify file integrity using the `.sha256` checksum included with each release.
 
 ### Desktop Edition (Windows)
 
-1. Download `BasisSetup-v{version}.exe` from the [Downloads](#downloads) section
+1. Download `BasisSetup-v{version}.exe` from the [Releases](../../releases/latest) page
 2. Run the installer executable
 3. Follow the installation wizard to complete the setup
 4. Launch the application from the Start Menu
 
 ### Server Edition (Windows)
 
-1. Download `BasisServer-v{version}-win-x64.zip` from the [Downloads](#downloads) section
+1. Download `BasisServer-v{version}-win-x64.zip` from the [Releases](../../releases/latest) page
 2. Extract the zip file to your desired location
 3. Refer to `INSTALL.md` included in the extracted folder for detailed configuration and setup instructions
 
 ### Server Edition (Linux)
 
-1. Download `BasisServer-v{version}-linux-x64.zip` from the [Downloads](#downloads) section
+1. Download `BasisServer-v{version}-linux-x64.zip` from the [Releases](../../releases/latest) page
 2. Extract the zip file to your desired location
 3. Refer to `INSTALL.md` included in the extracted folder for detailed configuration and setup instructions
 
