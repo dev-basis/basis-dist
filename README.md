@@ -14,17 +14,13 @@ This repository provides **official installer packages** for the Basis Accountin
 
 ## Downloads
 
-Latest releases are available below. For all versions, visit the [Releases](../../releases) section.
+Latest release is available below. For all versions, visit the [Releases](../../releases) section.
 
-### Latest Versions
+### Latest Version
 
 | Version | Desktop (Windows) | Server (Windows) | Server (Linux) |
 |---------|-------------------|------------------|----------------|
 | v2026.05.14 | [BasisSetup-v2026.05.14.exe](../../releases/download/v2026.05.14/BasisSetup-v2026.05.14.exe) | [BasisServer-v2026.05.14-win-x64.zip](../../releases/download/v2026.05.14/BasisServer-v2026.05.14-win-x64.zip) | [BasisServer-v2026.05.14-linux-x64.zip](../../releases/download/v2026.05.14/BasisServer-v2026.05.14-linux-x64.zip) |
-| v2026.05.10 | [BasisSetup-v2026.05.10.exe](../../releases/download/v2026.05.10/BasisSetup-v2026.05.10.exe) | [BasisServer-v2026.05.10-win-x64.zip](../../releases/download/v2026.05.10/BasisServer-v2026.05.10-win-x64.zip) | [BasisServer-v2026.05.10-linux-x64.zip](../../releases/download/v2026.05.10/BasisServer-v2026.05.10-linux-x64.zip) |
-| v2026.05.09 | [BasisSetup-v2026.05.09.exe](../../releases/download/v2026.05.09/BasisSetup-v2026.05.09.exe) | [BasisServer-v2026.05.09-win-x64.zip](../../releases/download/v2026.05.09/BasisServer-v2026.05.09-win-x64.zip) | [BasisServer-v2026.05.09-linux-x64.zip](../../releases/download/v2026.05.09/BasisServer-v2026.05.09-linux-x64.zip) |
-| v2026.05.08 | [BasisSetup-v2026.05.08.exe](../../releases/download/v2026.05.08/BasisSetup-v2026.05.08.exe) | [BasisServer-v2026.05.08-win-x64.zip](../../releases/download/v2026.05.08/BasisServer-v2026.05.08-win-x64.zip) | [BasisServer-v2026.05.08-linux-x64.zip](../../releases/download/v2026.05.08/BasisServer-v2026.05.08-linux-x64.zip) |
-| v2026.04.14 | [BasisSetup-v2026.04.14.exe](../../releases/download/v2026.04.14/BasisSetup-v2026.04.14.exe) | [BasisServer-v2026.04.14-win-x64.zip](../../releases/download/v2026.04.14/BasisServer-v2026.04.14-win-x64.zip) | [BasisServer-v2026.04.14-linux-x64.zip](../../releases/download/v2026.04.14/BasisServer-v2026.04.14-linux-x64.zip) |
 
 Verify file integrity using the `.sha256` checksum included with each release.
 
