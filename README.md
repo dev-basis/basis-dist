@@ -14,6 +14,11 @@ This repository provides **official installer packages** for the Basis Accountin
   - Platforms: Windows x64, Linux x64
   - License: Commercial license required
 
+- **Cloud Edition (Commercial)**
+  - Hosted by Basis Apps
+  - No installation required
+  - License: Commercial license required
+
 ## Downloads
 
 Download the latest release from the [Releases](../../releases/latest) page.
@@ -46,6 +51,12 @@ Verify file integrity using the `.sha256` checksum included with each release.
 2. Extract the zip file to your desired location
 3. Refer to `INSTALL.md` included in the extracted folder for detailed configuration and setup instructions
 
+### Cloud Edition
+
+The Cloud Edition of Basis Accounting System is professionally hosted by Basis Apps. No installation or setup is required.
+
+For registration and more information, visit [https://basis-apps.net/](https://basis-apps.net/)
+
 ## Resources
 
 - **Website**: [https://basis-apps.net/](https://basis-apps.net/)
@@ -55,9 +66,10 @@ Verify file integrity using the `.sha256` checksum included with each release.
 
 - **Desktop Edition**: Licensed under the MIT License
 - **Server Edition**: Requires a valid commercial license for production use
+- **Cloud Edition**: Requires a valid commercial license for production use
 
 ## Notes
 
 - Desktop Edition is free to use under the MIT License
-- Server Edition requires a valid commercial license for production use
+- Server Edition and Cloud Edition require a valid commercial license for production use
 - Please refer to [release notes](../../releases) for detailed version changes and improvements
