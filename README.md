@@ -24,7 +24,7 @@ This repository provides **official installer packages** for the Basis Accountin
 Download the latest release from the [Releases](../../releases/latest) page.
 
 Available packages:
-- `BasisSetup-v{version}.exe` - Desktop Edition (Windows)
+- `BasisDesktop-v{version}.exe` - Desktop Edition (Windows)
 - `BasisServer-v{version}-win-x64.zip` - Server Edition (Windows)
 - `BasisServer-v{version}-linux-x64.zip` - Server Edition (Linux)
 
