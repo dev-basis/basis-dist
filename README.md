@@ -34,7 +34,7 @@ Verify file integrity using the `.sha256` checksum included with each release.
 
 ### Desktop Edition (Windows)
 
-1. Download `BasisSetup-v{version}.exe` from the [Releases](../../releases/latest) page
+1. Download `BasisDesktop-v{version}.exe` from the [Releases](../../releases/latest) page
 2. Run the installer executable
 3. Follow the installation wizard to complete the setup
 4. Launch the application from the Start Menu
