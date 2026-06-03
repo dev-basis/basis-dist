@@ -1,5 +1,7 @@
 # Basis Accounting System - Distribution Repository
 
+[Accounting Software Complete & Modern for SMEs and mid-sized companies](https://basis-apps.net/)
+
 This repository provides **official installer packages** for the Basis Accounting System.
 
 ![Latest Release](https://img.shields.io/github/v/release/dev-basis/basis-dist)
